@@ -1,0 +1,13 @@
+#firstimg {
+    position: left;
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+}
+
+
+#visimg {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
